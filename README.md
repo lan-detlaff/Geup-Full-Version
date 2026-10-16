@@ -242,4 +242,4 @@ This repository serves as the official landing page for GEUP. The software is di
 **Get the most recent version of GEUP today!**
 
 ---
-**Last updated:** 2026-10-16 12:09:30 UTC
+**Last updated:** 2026-10-16 17:12:59 UTC
